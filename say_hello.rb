@@ -1,4 +1,4 @@
-def say_hello (name)
-  puts "Hello Ruby Programer!"
+def say_hello ( Ruby Programmer )
+  puts "Hello !"
 end
 say_hello ("Gabriela")
